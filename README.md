@@ -44,16 +44,48 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+```
+Developed by: VISMAYA.S
+RegisterNumber:212221230125
+```
+
+**Full Adder:**
+
+![image](https://github.com/23004205/FULL_ADDER_SUBTRACTOR/assets/138971114/b0e7c4f5-0b74-4832-ad89-c0bcd1cb2d0c)
+
+
+
+**Full Subtractor**
+
+
+![image](https://github.com/23004205/FULL_ADDER_SUBTRACTOR/assets/138971114/6d5473f3-0390-4c11-a271-67eafef62a0f)
+
+
 
 **RTL Schematic**
 
+**Full Adder:**
+
+![exp 4 rtl schematic fadder](https://github.com/23003250/FULL_ADDER_SUBTRACTOR/assets/139331462/a8fec4ef-013e-4ab6-9ece-32edb9b7a839)
+
+**Full Subtractor**
+
+![exp 4 rtl schematic fsubtractor](https://github.com/23003250/FULL_ADDER_SUBTRACTOR/assets/139331462/38de2167-852a-45e7-ba22-09af1211a59d)
+
 **Output Timing Waveform**
+
+**Full Adder:**
+
+![exp 4 waveform fadder](https://github.com/23003250/FULL_ADDER_SUBTRACTOR/assets/139331462/9ac232ab-b295-4ab7-8afe-671951daa081)
+
+
+**Full Subtractor**
+
+![exp 4 waveform fsubtractor](https://github.com/23003250/FULL_ADDER_SUBTRACTOR/assets/139331462/82f281e0-b870-409c-be34-884f15c22d5b)
+
 
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
-
-
 
